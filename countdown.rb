@@ -9,7 +9,7 @@ puts "HAPPY NEW YEAR!"
 
 end
 
-countdown_with_sleep
+countdown
 
 
 def countdown_with_sleep
